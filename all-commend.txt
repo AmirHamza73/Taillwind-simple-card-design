@@ -1,0 +1,7 @@
+npm init -y
+
+npm install -D tailwindcss postcss postcss-cli autoprefixer
+
+npx tailwindcss init
+
+"build": "postcss ./src/tailwind.css -o ./output/tailwind.css -w"
