@@ -1,12 +1,10 @@
 <h1 align="center" id="title">Taillwind simple card design</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
-
 <p id="description">My first simple card design</p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+<img src="img/bg.jpg" alt="project-screenshot" width="400" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
